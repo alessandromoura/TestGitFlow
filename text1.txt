@@ -1,1 +1,8 @@
 Line 1 data
+<<<<<<< HEAD
+Line 2 data
+Line 3 data
+Line 4 data
+=======
+Line 4 data
+>>>>>>> 8d5b96031b3cf035f221bb3548ccfb4ea31b1b94
